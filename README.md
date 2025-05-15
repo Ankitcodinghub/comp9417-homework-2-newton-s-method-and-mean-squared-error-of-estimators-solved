@@ -1,0 +1,1 @@
+# comp9417-homework-2-newton-s-method-and-mean-squared-error-of-estimators-solved
